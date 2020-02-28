@@ -1,0 +1,12 @@
+.wrapper{
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+}
+.tree{
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+}
