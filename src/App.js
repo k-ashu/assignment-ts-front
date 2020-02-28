@@ -9,7 +9,7 @@ import fetch from 'node-fetch';
 // ];
 
 const url = 'http://localhost:8080/api'
-async function fetchData (updateTreeData){
+async function fetchData (updateTreeDatla){
   const result = await fetch(url)
   const data = await result.json()
   const treeData = []
